@@ -12,7 +12,7 @@ This updated plugin is essential in described process.
 
 ## Prerequisites
  * ensure you have JDK 8 installed (it is Eclipse Oxygen prerequisite).
- * download updated `Grails IDE` plugins from this project:
+ * download updated `Grails IDE` plugins from [this](https://github.com/TomSzymko/grails-ide-oxygen/tree/master/bin) project:
     * file `org.grails.ide.eclipse.site-3.6.4-SNAPSHOT.zip` from `bin` folder
 
 ### Warning!
@@ -68,7 +68,6 @@ Now you're ready to import Your Grails 2 project! Enjoy!
 # Known issues
 
 * support for Grails 1.3 was removed from this version of plugin
-* Grails project is not starting in debug mode
 * I did not changed plugin versioning, it is same as original one (to be fixed some day)
 
 # Building Grails IDE
